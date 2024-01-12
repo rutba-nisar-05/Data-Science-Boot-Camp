@@ -4,14 +4,8 @@ These are 3 projects that I made for a Data Science Boot Camp using Python in Ju
 
 LMS (Library Management System):
 -> The Library Management System is developed using Python programming language, leveraging its file handling capabilities to store and retrieve data. Python's built-in file handling functions, such as reading from and writing to text files, are utilized to manage the library's data.
--> Key Features: Display Books, 
-                 Issue Books, 
-                 Add Books and 
-                 Return Books.
--> Enhancements I'm Working On: Due Date Management,
-                                Patron Management,
-                                Fine Management and
-                                Seperate Dashboards for Admin and User
+-> Key Features: Display Books, Issue Books, Add Books and Return Books.
+-> Enhancements I'm Working On: Due Date Management, Patron Management, Fine Management and Seperate Dashboards for Admin and User
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
